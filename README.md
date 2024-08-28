@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏆 JS | ReactN | Angular | Ionic | Vue | Go 🖥️
+### 🏆 JS | ReactN | Angular | Ionic | Vue | Go | Magento 🖥️
 
 ⚡ `codeguru827`
+
+> Freelance Software Engineer
+> 
