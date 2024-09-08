@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏆 JS | ReactN | Angular | Ionic | Vue | Go | Magento 🖥️
+### 🏆 JS | ReactN | Angular | Ionic | Vue | Python | R 🖥️
 
 ⚡ `codeguru827`
 
