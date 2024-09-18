@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏆 JS | ReactN | Angular | Ionic | Vue | Python | R 🖥️
+### 🏆 Flutter | React Native | Ionic 📱
 
 ⚡ `codeguru827`
 
-> Freelance Software Engineer
+> Senior Freelance Mobile Developer
 > 
