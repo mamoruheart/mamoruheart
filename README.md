@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏆 Flutter | React Native | Ionic 📱
+### 🏆 React & Angular | Flutter & React Native & Ionic 📱
 
 ⚡ `codeguru827`
 
