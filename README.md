@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🏆 React & Angular | Flutter & React Native & Ionic 📱
+### ✨ JavaScript | Typescript | Python | Go 🌱
 
 ⚡ `codeguru827`
 
-> Senior Freelance Mobile Developer
+> Senior Freelance Developer
 > 
