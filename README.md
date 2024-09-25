@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🏆 React & Angular | Flutter & React Native & Ionic 📱
-### ✨ JavaScript | Typescript | Python | Go 🌱
+### ✨ JavaScript | Typescript | Python | Go | R 🌱
 
 ⚡ `codeguru827`
 
