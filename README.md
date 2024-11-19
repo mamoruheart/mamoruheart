@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏆 React & Angular | Flutter & React Native & Ionic 📱
-### ✨ JavaScript | Typescript | Python | Go | R 🌱
+### 🏆 React & Next.js & Laravel | React Native & Ionic 📱
+### ✨ JavaScript | Typescript | Python | PHP 🌱
 
 ⚡ `codeguru827`
 
-> Senior Freelance Developer
+> Freelance Software Developer
 > 
