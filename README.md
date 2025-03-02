@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏆 React & Next.js & Laravel | React Native & Ionic 📱
-### ✨ JavaScript | Typescript | Python | PHP 🌱
+### 🏆 Web3 | React & Next.js & Laravel | React Native & Ionic 📱
+### ✨ JavaScript | Node.js | PHP | Python 🌱
 
 ⚡ `codeguru827`
 
-> Freelance Software Developer
+> Freelance Software Engineer
 > 
