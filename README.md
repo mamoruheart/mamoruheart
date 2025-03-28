@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏆 Web3 | React & Next.js & Laravel | React Native & Ionic 📱
+### 🏆 Web3 & AI | React & Next.js & Laravel | React Native & Ionic 📱
 ### ✨ JavaScript | Node.js | PHP | Python 🌱
 
 ⚡ `codeguru827`
