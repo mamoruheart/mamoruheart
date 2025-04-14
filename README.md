@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 > Freelance Software Engineer
 
 > フリーランスソフトウェアエンジニア
+
+## 宜しくお願い致します收 🙏
