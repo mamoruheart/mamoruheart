@@ -1,7 +1,8 @@
 # Hi 👋
+# 初めまして 👋
 
 <!--
-**codeguru827/codeguru827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mamoruheart/mamoruheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +19,8 @@ Here are some ideas to get you started:
 ### 🏆 Web3 & AI | React & Next.js & Laravel | React Native & Ionic 📱
 ### ✨ JavaScript | Node.js | PHP | Python 🌱
 
-⚡ `codeguru827`
+⚡ `mamoruheart`
 
 > Freelance Software Engineer
-> 
+
+> フリーランスソフトウェアエンジニア
