@@ -1,4 +1,5 @@
 # Hi 👋
+# 你好 👋
 # 初めまして 👋
 
 <!--
@@ -19,10 +20,12 @@ Here are some ideas to get you started:
 ### 🏆 Web3 & AI | React & Next.js & Laravel | React Native & Ionic 📱
 ### ✨ JavaScript | Node.js | PHP | Python 🌱
 
-⚡ `mamoruheart`
+> Freelance Software Engineer 👨‍💻
 
-> Freelance Software Engineer
+> 自由软件工程师 👨‍💻
 
-> フリーランスソフトウェアエンジニア
+> フリーランスソフトウェアエンジニア 👨‍💻
 
+## Thanks for reading 🙏
+## 谢谢 🙏
 ## 宜しくお願い致します 🙏
